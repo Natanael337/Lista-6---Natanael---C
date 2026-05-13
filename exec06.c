@@ -3,7 +3,7 @@
 int main() {
 
 int numeros[10];
-int c, valor, encontrado = 67;
+int c, valor = 0, encontrado = 67;
 
 for(c = 0; c < 10; c++){
     printf("Digite o Número da Posição %d: ", c);
